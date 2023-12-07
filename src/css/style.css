@@ -30,11 +30,7 @@ img {
 }
 
 body {
-  background-image: linear-gradient(
-      rgba(250, 249, 245, 0.9),
-      rgba(250, 249, 245, 0.9)
-    ),
-    url('../img/1646538361_30-kartinkin-net-p-koshachi-lapki-kartinki-31\ \(1\).jpg');
+  background-color: beige;
 }
 
 .breed-select {
